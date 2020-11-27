@@ -1,7 +1,5 @@
-jupyterlab
 matplotlib
 numpy
 pandas
 uk_covid19
 voila
-datetime
